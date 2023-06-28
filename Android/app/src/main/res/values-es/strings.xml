@@ -60,59 +60,59 @@
     <string name="error_file_already_exists_title">Advertencia de Sustitución de Archivo</string>
     <string name="error_file_already_exists_message">Existe un archivo con el mismo nombre, que desea hacer?</string>
     <string name="error_file_new_name_title">Renombrar Archivo</string>
-    <string name="share_file_with">Share File With</string>
-    <string name="connect_to_internet">Please make sure you are connected to the internet!</string>
+    <string name="share_file_with">Compartir archivo con</string>
+    <string name="connect_to_internet">Por favor verifique la conexión a internet!</string>
     <!-- App Update -->
-    <string name="app_update_title">DMD2 Update Available</string>
-    <string name="app_update_message">There is an update available for DMD2, do you want to update now? \n Whats New:</string>
-    <string name="app_update_download_notification">Downloading DMD2 Update</string>
-    <string name="app_update_download_progress">Download progress:</string>
+    <string name="app_update_title">Actualización Disponible de DMD2</string>
+    <string name="app_update_message">Hay una actualización disponible para DMD2, quiere actualizar ahora? \n Lo nuevo:</string>
+    <string name="app_update_download_notification">Descargando la Actualización de DMD2</string>
+    <string name="app_update_download_progress">Progreso de la descarga:</string>
     <!-- Controller App Update -->
-    <string name="controller_app_update_dialogue_title">CARPE Controller App Update</string>
-    <string name="controller_app_update_dialogue_message">There is an update for the controller app, do you want to update now? \n Whats New:</string>
-    <string name="controller_app_update_download_notification">Downloading CARPE Update</string>
-    <string name="controller_app_update_download_progress">Download progress:</string>
+    <string name="controller_app_update_dialogue_title">Actualización de CARPE Controller App</string>
+    <string name="controller_app_update_dialogue_message">Hay una actualización para la app del mando, quiere actualizar ahora? \n Lo nuevo:</string>
+    <string name="controller_app_update_download_notification">Descargando Actualización CARPE</string>
+    <string name="controller_app_update_download_progress">Progreso de la descarga:</string>
     <!-- T93 Dialog -->
-    <string name="t93_trial_title">Tripltek T93 Trial</string>
-    <string name="t93_trial_message">Since you are using a Tripltek T93 you have 30-day free trial. If you have a special DMD2 Edition license key, please insert it to claim it.</string>
-    <string name="t93_trial_button">Continue Trial</string>
-    <string name="t93_dmd2_edition_button">Insert Key</string>
-    <string name="t93_finish_trial_button">End Trial</string>
-    <string name="t93_dmd2_edition_insert_key_title">Insert DMD2-Edition Key:</string>
+    <string name="t93_trial_title">Prueba Tripltek T93</string>
+    <string name="t93_trial_message">Al estar usando un Tripltek T93 dispone de un periodo de pruebas gratuito de 30 días. Si dispone de una licencia de la edición especial DMD2, por favor introdúzcala para reclamarla.</string>
+    <string name="t93_trial_button">Continuar con la versión de prueba</string>
+    <string name="t93_dmd2_edition_button">Introducir clave</string>
+    <string name="t93_finish_trial_button">Finalizar Prueba</string>
+    <string name="t93_dmd2_edition_insert_key_title">Introducir Clave DMD2-Edition:</string>
 
     <!-- Settings -->
-    <string name="settings_localization_options">Localization</string>
-    <string name="settings_hour_format">Use 24h format</string>
-    <string name="settings_use_fahrenheit">Use Fahrenheit instead of Celsius</string>
-    <string name="settings_use_imperial_units">Use imperial units of measurement</string>
-    <string name="settings_interface_options">Interface Options</string>
-    <string name="settings_theme_category">Theme</string>
-    <string name="settings_color_theme">Color theme (Dark / Light):</string>
+    <string name="settings_localization_options">Localización</string>
+    <string name="settings_hour_format">Usar formato 24h</string>
+    <string name="settings_use_fahrenheit">Usar Fahrenheit en lugar de Celsius</string>
+    <string name="settings_use_imperial_units">Usar unidades imperiales de medición</string>
+    <string name="settings_interface_options">Opciones de Interfaz</string>
+    <string name="settings_theme_category">Tema</string>
+    <string name="settings_color_theme">Color de tema (Oscuro / Claro):</string>
     <string-array name="settings_color_themes" translatable="true">
-        <item>Always Dark Mode</item>
-        <item>Always Light Mode</item>
-        <item>Automatic (follow system)</item>
-        <item>Use Light Sensor</item>
+        <item>Siempre Modo Oscuro</item>
+        <item>Siempre Modo Claro</item>
+        <item>Automático (configuración del sistema)</item>
+        <item>Usar Sensor de Iluminación</item>
     </string-array>
-    <string name="settings_accent_color_title">Accent color:</string>
+    <string name="settings_accent_color_title">Color Principal:</string>
     <string-array name="settings_accent_colors_names" translatable="true">
-        <item>Blue</item>
-        <item>Darker Blue</item>
-        <item>Red</item>
-        <item>Orange</item>
-        <item>Green</item>
-        <item>Yellow</item>
-        <item>Pink</item>
+        <item>Azul</item>
+        <item>Azul Oscuro</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Verde</item>
+        <item>Amarillo</item>
+        <item>Rosa</item>
     </string-array>
-    <string name="settings_screen_category">Screen</string>
-    <string name="settings_screen_lock_rotation">Lock screen orientation</string>
-    <string name="settings_screen_lock_rotation_summary">Prevent screen from accidentally rotating while driving</string>
-    <string name="settings_screen_orientation">Lock orientation in:</string>
+    <string name="settings_screen_category">Pantalla</string>
+    <string name="settings_screen_lock_rotation">Bloquear orientación de pantalla</string>
+    <string name="settings_screen_lock_rotation_summary">Evitar que la pantalla rote accidentalmente mientras conduce</string>
+    <string name="settings_screen_orientation">Bloquear orientación en:</string>
     <string-array name="settings_screen_orientation_lock_names" translatable="true">
-        <item>Landscape</item>
-        <item>Reversed Landscape</item>
+        <item>Apaisado</item>
+        <item>Apaisado Invertido</item>
     </string-array>
-    <string name="settings_notifications_category">Notifications</string>
+    <string name="settings_notifications_category">Notificationes</string>
     <string name="settings_notifications_enable_title">Enable notifications pop-up (permission required)</string>
     <string name="settings_notifications_enable_summary">Show notifications from a user selectable list of apps</string>
     <string name="settings_notifications_dismiss">Dismiss method</string>
