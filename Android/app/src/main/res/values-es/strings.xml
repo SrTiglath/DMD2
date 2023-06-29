@@ -76,9 +76,9 @@
     <string name="t93_trial_title">Prueba Tripltek T93</string>
     <string name="t93_trial_message">Al estar usando un Tripltek T93 dispone de un periodo de pruebas gratuito de 30 días. Si dispone de una licencia de la edición especial DMD2, por favor introdúzcala para reclamarla.</string>
     <string name="t93_trial_button">Continuar con la versión de prueba</string>
-    <string name="t93_dmd2_edition_button">Introducir clave</string>
+    <string name="t93_dmd2_edition_button">Introducir KEY</string>
     <string name="t93_finish_trial_button">Finalizar Prueba</string>
-    <string name="t93_dmd2_edition_insert_key_title">Introducir Clave DMD2-Edition:</string>
+    <string name="t93_dmd2_edition_insert_key_title">Introducir KEY DMD2-Edition:</string>
 
     <!-- Settings -->
     <string name="settings_localization_options">Localización</string>
@@ -113,26 +113,26 @@
         <item>Apaisado Invertido</item>
     </string-array>
     <string name="settings_notifications_category">Notificationes</string>
-    <string name="settings_notifications_enable_title">Enable notifications pop-up (permission required)</string>
-    <string name="settings_notifications_enable_summary">Show notifications from a user selectable list of apps</string>
-    <string name="settings_notifications_dismiss">Dismiss method</string>
+    <string name="settings_notifications_enable_title">Habilitar pop-ip de notificaciones (requiere autorización)</string>
+    <string name="settings_notifications_enable_summary">Mostrar notificaciones de una lista de aplicaciones seleccionada por el usuario</string>
+    <string name="settings_notifications_dismiss">Descartar método</string>
     <string-array name="settings_notifications_dismiss_names" translatable="true">
-        <item>Timeout after 5s</item>
-        <item>Timeout after 10s</item>
-        <item>Timeout after 15s</item>
-        <item>Timeout after 30s</item>
-        <item>Timeout after 60s</item>
+        <item>Timeout después de 5s</item>
+        <item>Timeout después de 10s</item>
+        <item>Timeout después de 15s</item>
+        <item>Timeout después de 30s</item>
+        <item>Timeout después de 60s</item>
         <item>Manually (Swipe or Controller)</item>
     </string-array>
-    <string name="settings_notifications_controller_lock_title">Handlebar controller focus</string>
-    <string name="settings_notifications_controller_lock_message">When a notification is visible, the CARPE controller will focus on it. The enter key launches the notification action and the back key clears the notification.</string>
-    <string name="settings_notifications_apps_selection_title">Apps filter</string>
-    <string name="settings_notifications_apps_selection_message">Select for which apps you want to see the notification pop-up</string>
-    <string name="settings_notifications_group_title">Show only the last notification from each group</string>
-    <string name="settings_notifications_group_message">If enabled you will only see the latest notification update for each notification group. For example, the latest message from a chat notification.</string>
-    <string name="settings_notifications_app_selection_dialog_title">Show Notifications For:</string>
-    <string name="settings_notifications_app_selection_dialog_button1">All / None</string>
-    <string name="settings_notifications_app_selection_dialog_button2">Close</string>
+    <string name="settings_notifications_controller_lock_title">Foco en el mando del manillar</string>
+    <string name="settings_notifications_controller_lock_message">Cuando una notificación es visible, el mando CARPE hará foco en ella. La tecla de intro lanza la acción de la notificación y la tecla de retroceso limpia la notificación.</string>
+    <string name="settings_notifications_apps_selection_title">Filtro de Apps</string>
+    <string name="settings_notifications_apps_selection_message">Seleccione de que apps desea recibir notificaciones pop-up</string>
+    <string name="settings_notifications_group_title">Mostrar solo la última notificación de cada grupo</string>
+    <string name="settings_notifications_group_message">Si habilitado solo verá la última notificación para cada grupo de notificaciones. Por ejemplo, el último mensaje de una notificación de chat.</string>
+    <string name="settings_notifications_app_selection_dialog_title">Mostrar Notificaciones para:</string>
+    <string name="settings_notifications_app_selection_dialog_button1">Todas / Ninguna</string>
+    <string name="settings_notifications_app_selection_dialog_button2">Cerrar</string>
     <!-- Trip Settings-->
     <string name="settings_trip_options">Trip Options</string>
     <string name="settings_trip_auto_reset_title">Automatic Trip Reset</string>
