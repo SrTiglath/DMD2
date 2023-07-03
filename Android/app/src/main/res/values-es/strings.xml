@@ -134,34 +134,34 @@
     <string name="settings_notifications_app_selection_dialog_button1">Todas / Ninguna</string>
     <string name="settings_notifications_app_selection_dialog_button2">Cerrar</string>
     <!-- Trip Settings-->
-    <string name="settings_trip_options">Trip Options</string>
-    <string name="settings_trip_auto_reset_title">Automatic Trip Reset</string>
-    <string name="settings_trip_auto_reset_summary">Trip will automatically reset if DMD2 is not started for more than a configurable amount of time</string>
-    <string name="settings_trip_auto_reset_time_title">Automatic Trip Reset Time</string>
+    <string name="settings_trip_options">Opciones de Viaje</string>
+    <string name="settings_trip_auto_reset_title">Reset de viaje automático</string>
+    <string name="settings_trip_auto_reset_summary">El viaje se reseteará automáticamente si DMD2 no se ha iniciado durante una duración configurable de tiempo</string>
+    <string name="settings_trip_auto_reset_time_title">Duración para el reseteo automático</string>
     <string-array name="settings_trip_reset_time_entries" translatable="true">
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>5 days</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 días</item>
+        <item>2 días</item>
+        <item>5 días</item>
     </string-array>
     <!-- OEM Registration-->
-    <string name="settings_oem_registration">OEM Registration</string>
-    <string name="settings_oem_check">Registration Process (requires internet connection)</string>
-    <string name="settings_oem_check_summary">Only use if your motorcycle came equipped with an Android device with Drive Mode Dashboard 2 pre-installed.</string>
+    <string name="settings_oem_registration">Registro OEM</string>
+    <string name="settings_oem_check">Proceso de Registro (requiere de conexión a internet)</string>
+    <string name="settings_oem_check_summary">Usar solo si su motocicleta venía equipada con un dispositivo Android con Drive Mode Dashboard 2 pre instalado.</string>
     <!-- Info & Links -->
-    <string name="settings_info_and_links">Information and Links</string>
-    <string name="settings_app_version">DMD2 Version</string>
-    <string name="settings_app_installed_version">Installed version:</string>
-    <string name="settings_dmd2_website">Learn more about the DMD2 app on the official website</string>
-    <string name="settings_developer_website_title">DMD2 is brought to you by</string>
-    <string name="settings_tripltek_website_title">This version of DMD2 is optimized for Tripltek devices</string>
-    <string name="settings_follow_us_facebook">Visit and follow our Facebook page for the latest news</string>
-    <string name="settings_join_us_facebook">Join our Facebook group</string>
-    <string name="settings_dmd2_forum">Join the discussion about new features, bugs and requests</string>
-    <string name="settings_license_title">Special License Keys</string>
-    <string name="settings_dmd2_edition_redeem_title">Trial / DMD2 Edition</string>
-    <string name="settings_dmd2_edition_redeem_message">Manage Trial or insert DMD2 Edition key</string>
+    <string name="settings_info_and_links">Información y Enlaces</string>
+    <string name="settings_app_version">Versión DMD2</string>
+    <string name="settings_app_installed_version">Version instalada:</string>
+    <string name="settings_dmd2_website">Aprenda más sobre la app DMD2 en la página oficial</string>
+    <string name="settings_developer_website_title">DMD2 es proporcionado por</string>
+    <string name="settings_tripltek_website_title">Esta versión de DMD2 está optimizada para los dispositivos Tripltek</string>
+    <string name="settings_follow_us_facebook">Visita y sigue nuestra página de Facebook para estar al tanto de las últimas noticicas</string>
+    <string name="settings_join_us_facebook">Únete a nuestro grupo de Facebook</string>
+    <string name="settings_dmd2_forum">Únete a la discusión sobre nuevas funcionalidades, errores y peticiones</string>
+    <string name="settings_license_title">Claves de Licencia Especial</string>
+    <string name="settings_dmd2_edition_redeem_title">Prueba / DMD2 Edition</string>
+    <string name="settings_dmd2_edition_redeem_message">Gestiona la Prueba o introduce una Key de DMD2</string>
     <!-- Welcome Screen -->
     <string name="welcome_dmd2_title">Welcome to DMD2</string>
     <string name="welcome_dmd2_message">DMD2 is designed to transform your device into a complete dashboard for motorcycles and cars with special focus on adventure and off-road. It includes a Map for navigation, a Roadbook, OBD2 Sensors and much more.</string>
