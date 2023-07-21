@@ -163,9 +163,9 @@
     <string name="settings_dmd2_edition_redeem_title">Prueba / DMD2 Edition</string>
     <string name="settings_dmd2_edition_redeem_message">Gestiona la Prueba o introduce una Key de DMD2</string>
     <!-- Welcome Screen -->
-    <string name="welcome_dmd2_title">Welcome to DMD2</string>
-    <string name="welcome_dmd2_message">DMD2 is designed to transform your device into a complete dashboard for motorcycles and cars with special focus on adventure and off-road. It includes a Map for navigation, a Roadbook, OBD2 Sensors and much more.</string>
-    <string name="welcome_dmd2_lets_go">Start</string>
+    <string name="welcome_dmd2_title">Bienvenido a DMD2</string>
+    <string name="welcome_dmd2_message">DMD2 se a diseñado para tranformar tu dispositivo en un dashboard complet para motocicletas y coches and cars centrándose en la aventura y el offroad. Incluye mapa de navegación, Roadbook, Lectura de sensores OB2 y mucho más.</string>
+    <string name="welcome_dmd2_lets_go">Inicio</string>
     <!-- GPS Settings -->
     <string name="settings_gps_settings_title">GPS Settings</string>
     <string name="settings_bypass_acc_filter_title">Lower GPS Accuracy Filter</string>
