@@ -167,17 +167,17 @@
     <string name="welcome_dmd2_message">DMD2 se a diseñado para tranformar tu dispositivo en un dashboard complet para motocicletas y coches and cars centrándose en la aventura y el offroad. Incluye mapa de navegación, Roadbook, Lectura de sensores OB2 y mucho más.</string>
     <string name="welcome_dmd2_lets_go">Inicio</string>
     <!-- GPS Settings -->
-    <string name="settings_gps_settings_title">GPS Settings</string>
-    <string name="settings_bypass_acc_filter_title">Lower GPS Accuracy Filter</string>
-    <string name="settings_bypass_acc_filter_message">For devices with sub-optimal GPS quality</string>
+    <string name="settings_gps_settings_title">Ajustes de GPS</string>
+    <string name="settings_bypass_acc_filter_title">Filtro de Baja Precisión de GPS</string>
+    <string name="settings_bypass_acc_filter_message">Para dispositivos con GPS de calidad inferior a la óptima</string>
     <!-- Device Specific -->
-    <string name="settings_non_play_store_devices_cat">Non Play Store Devices Options</string>
-    <string name="settings_disable_controller_app_check_title">Disable CARPE Controller App Check</string>
-    <string name="settings_disable_controller_app_check_message">Will stop monitoring the controller app and will not ask to install it or update it anymore.</string>
-    <string name="settings_controller_app_install_title">CARPE Controller Detected</string>
-    <string name="settings_controller_app_install_message">It seems you are using a CARPE Controller. To take full advantage of it you should install the controller app. Do you want to install it now?</string>
+    <string name="settings_non_play_store_devices_cat">Opciones Para Dispositivos sin Play Store</string>
+    <string name="settings_disable_controller_app_check_title">Desactivar verificación de la App CARPE Controller</string>
+    <string name="settings_disable_controller_app_check_message">Detendrá la monitorización de la app del mando y no preguntará para actualizar o instalarla nunca más.</string>
+    <string name="settings_controller_app_install_title">Mando CARPE Detectado</string>
+    <string name="settings_controller_app_install_message">Parece que estás usando un mando CARPE. Para tener todas las ventajas deberías instalar la app del mando. Quieres instalarla ahora?</string>
     <!-- Storage -->
-    <string name="map_storage_location_cat_title">Storage</string>
+    <string name="map_storage_location_cat_title">Almacenamiento</string>
     <string name="map_storage_location_select_title">Set Storage to Removable SD Card</string>
     <string name="map_storage_location_select_message">For offline map files and user files.</string>
     <string name="map_storage_sd_card_missing_error_title">SD Card is Missing!</string>
